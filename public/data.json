@@ -1,0 +1,28 @@
+{
+    "trips": [
+        {
+            "id": 1,
+            "name": "Grand Canyon National Park",
+            "image": "https://magazine.northeast.aaa.com/wp-content/uploads/2017/11/grand-canyon-national-park-guide-1.jpg?w=640",
+            "description": "Vast red rock canyon carved by the Colorado River.",
+            "long_description": "Stretching 277 miles long and over a mile deep, the Grand Canyon reveals nearly two billion years of Earth's history.",
+            "rating": 5
+        },
+        {
+            "id": 2,
+            "name": "Niagara Falls",
+            "image": "https://images.assetsdelivery.com/compings_v2/erix2005/erix20051606/erix2005160600432.jpg",
+            "description": "Massive waterfalls between the US and Canada.",
+            "long_description": "Niagara Falls’ massive cascades send over 3,000 tons of water per second tumbling down its cliffs.",
+            "rating": 5
+        },
+        {
+            "id": 3,
+            "name": "Carhenge",
+            "image": "https://delta.creativecirclecdn.com/powell/original/20250107-102936-3db-CH-2.jpg",
+            "description": "Stonehenge replica made entirely from vintage cars.",
+            "long_description": "Carhenge recreates the famous monument using 38 old automobiles painted gray and arranged in the same proportions as the original.",
+            "rating": 4
+        }
+    ]
+}
