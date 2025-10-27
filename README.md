@@ -31,14 +31,14 @@ Built as part of a frontend coding challenge — with focus on clean UI, respons
 ## Quick Start
 
 ```bash
-# 1️⃣ Clone the repository
+1️⃣ Clone the repository
 git clone https://github.com/<your-username>/trip-card-explorer.git
 
-# 2️⃣ Navigate into the project
+2️⃣ Navigate into the project
 cd trip-card-explorer
 
-# 3️⃣ Install dependencies
+3️⃣ Install dependencies
 npm install
 
-# 4️⃣ Run the app locally
+4️⃣ Run the app locally
 npm run dev
