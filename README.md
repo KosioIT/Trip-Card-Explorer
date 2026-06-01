@@ -32,7 +32,7 @@ Built as part of a frontend coding challenge — with focus on clean UI, respons
 
 ```bash
 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/trip-card-explorer.git
+git clone https://github.com/KosioIT/trip-card-explorer.git
 
 2️⃣ Navigate into the project
 cd trip-card-explorer
